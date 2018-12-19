@@ -1,0 +1,3 @@
+[submodule "SpringGame/Assets/UGF"]
+	path = SpringGame/Assets/UGF
+	url = https://github.com/EllanJiang/UnityGameFramework.git
