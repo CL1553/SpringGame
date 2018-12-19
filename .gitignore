@@ -4,7 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-/.vs/
+/SpringGame/.vs/
 
 *.csproj
 *.unityproj
@@ -22,3 +22,5 @@
 /SpringGame/ProjectSettings/ProjectVersion.txt
 /SpringGame/Packages/*
 /SpringGame/UnityPackageManager/*
+/SpringGame/Library/*
+/SpringGame/Temp/*
